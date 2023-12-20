@@ -1,5 +1,5 @@
 # experiments
-This repository is personal code, scripts and config files for experiments
+This repository is personal code, scripts, document and config files for experiments
 > Life is short, let's come together and learn!
 
 ### Git 提交规范
